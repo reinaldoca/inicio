@@ -1,5 +1,6 @@
 #Inicio
 ##
+```
 create a new repository on the command line
 echo "# init" >> README.md
 git init
@@ -15,3 +16,4 @@ git push -u origin main
 import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 ##
+```
